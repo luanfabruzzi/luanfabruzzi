@@ -69,10 +69,3 @@ Sou formado **Técnico em Desenvolvimento de Sistemas** com sólida base em **te
 
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luanfabruzzi&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanfabruzzi&layout=compact&theme=tokyonight" />
-</p>
