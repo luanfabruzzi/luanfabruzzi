@@ -1,17 +1,16 @@
 # Olá 👋, sou Luan Fabruzzi
 
-🚀 **Full-Stack Engineer | JavaScript & .NET Specializing**  
+🚀 **Desenvolvedor Full-Stack (.NET Core & Angular) | Técnico em Desenv. de Sistemas | C# | Node | GO & SQL**  
 
-Sou formado **Técnico em Desenvolvimento de Sistemas** com sólida base em **tecnologias Web (JavaScript, ASP.NET, HTML/CSS)**, mas com foco e paixão pelo ecossistema **.NET (C#)**. Experiência prática na entrega de projetos via freelas e atualmente expandindo conhecimentos teóricos e arquiteturais através da **graduação em Engenharia de Software.** Busco aplicar minha experiência técnica para criar soluções robustas e escaláveis.
+Formado como **Técnico em Desenvolvimento de Sistemas** e atualmente graduando em **Engenharia de Software**, uno o conhecimento prático da base técnica com uma visão arquitetural sólida. Possuo experiência no desenvolvimento de aplicações ponta a ponta, com foco principal no ecossistema .NET (C#) e Angular.
 
 ---
 
 ## 🌐 Aonde me encontrar!
 
-<p align="left">
-  <a href="https://github.com/luanfabruzzi">
-    <img src="https://img.shields.io/badge/GitHub-LUANFABRUZZI-181717?style=for-the-badge&logo=github" />
-  </a>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luanfbrz2702@gmail.com)
+
   <a href="https://www.linkedin.com/in/luanfabruzzi">
     <img src="https://img.shields.io/badge/linkedin-LuanFabruzzi-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -23,24 +22,23 @@ Sou formado **Técnico em Desenvolvimento de Sistemas** com sólida base em **te
 
 ### Frontend
 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
 
 ### Backend
 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)>
 
 ### Banco de dados
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -51,6 +49,6 @@ Sou formado **Técnico em Desenvolvimento de Sistemas** com sólida base em **te
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
 
 ---
