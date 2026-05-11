@@ -1,8 +1,8 @@
 # Olá 👋, sou Luan Fabruzzi
 
-🚀 **Desenvolvedor Full-Stack (.NET Core & Angular) | Técnico em Desenv. de Sistemas | C# | Node | GO & SQL**  
+🚀 **Desenvolvedor Back-end (.NET Core & Node) | Técnico em Desenv. de Sistemas | GO & SQL**  
 
-Formado como **Técnico em Desenvolvimento de Sistemas** e atualmente graduando em **Engenharia de Software**, uno o conhecimento prático da base técnica com uma visão arquitetural sólida. Possuo experiência no desenvolvimento de aplicações ponta a ponta, com foco principal no ecossistema .NET (C#) e Angular.
+Formado como **Técnico em Desenvolvimento de Sistemas** e atualmente graduando em **Engenharia de Software**, uno o conhecimento prático da base técnica com uma visão arquitetural sólida. Possuo experiência no desenvolvimento de aplicações ponta a ponta, com foco principal no ecossistema .NET (C#) e Node.
 
 ---
 
