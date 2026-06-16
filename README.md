@@ -1,8 +1,8 @@
 # Olá 👋, sou Luan Fabruzzi
 
-🚀 **Desenvolvedor Back-end (.NET Core & Node) | Técnico em Desenv. de Sistemas | GO & SQL**  
+🚀 **Software Engineer | Backend Developer (.NET & Node.js) | Python & AI Automation | Técnico em Desenv. de Sistemas**  
 
-Formado como **Técnico em Desenvolvimento de Sistemas** e atualmente graduando em **Engenharia de Software**, uno o conhecimento prático da base técnica com uma visão arquitetural sólida. Possuo experiência no desenvolvimento de aplicações ponta a ponta, com foco principal no ecossistema .NET (C#) e Node.
+Engenheiro de Software em formação com sólido background técnico e foco em desenvolvimento backend escalável (.NET, Node.js). Especialista em SQL pela DIO, possuo experiência prática na automação de 100% de processos legados através da migração de fluxos manuais para sistemas robustos. Atualmente, foco na aplicação de Clean Code, arquitetura sólida e integração de soluções de IA e automação com Python para otimização de sistemas complexos.
 
 ---
 
@@ -22,7 +22,6 @@ Formado como **Técnico em Desenvolvimento de Sistemas** e atualmente graduando 
 
 ### Frontend
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
