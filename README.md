@@ -9,7 +9,7 @@ Engenheiro de Software em formação com sólido background técnico e foco em d
 ## 🌐 Aonde me encontrar!
 
 
-  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luanfbrz2702@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luanfabruzzidev@gmail.com)
 
   <a href="https://www.linkedin.com/in/luanfabruzzi">
     <img src="https://img.shields.io/badge/linkedin-LuanFabruzzi-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
